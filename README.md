@@ -90,8 +90,8 @@ Open **`luna-lander.ipynb`** and run the cells sequentially.
 
 - The agent starts with **random actions** 🎲 and gradually learns to control the spaceship 🚀.
 - Training episodes demonstrate improvement in **landing accuracy** 🟢 as the model optimizes the Q-function.
-- Final evaluations show the agent's ability to **land consistently** with high reward scores 🌟.
-https://github.com/user-attachments/assets/1cb1f589-d32d-4756-816d-79e7fb917222
+- Final evaluations show the agent's ability to **land consistently** with high reward scores 🌟.\
+- Video of the final result https://github.com/user-attachments/assets/1cb1f589-d32d-4756-816d-79e7fb917222
 
 ---
 
