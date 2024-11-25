@@ -1,4 +1,4 @@
-🚀 **Deep Q-Network Lunar Lander** Notebook 🌙
+##  🚀 Deep Q-Network Lunar Lander Notebook 🌙
 
 ## Overview 🧠✨
 
